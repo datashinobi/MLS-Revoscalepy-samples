@@ -1,4 +1,4 @@
-# MLS-Revoscalepy samples
+# MLS-samples
 
 This repository contains sample[s] to show the usage of SQL Server 2017 Machine learning services that was released with SQL 2017 CTP 2.0
 
