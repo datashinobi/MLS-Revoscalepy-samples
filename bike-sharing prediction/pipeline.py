@@ -140,7 +140,7 @@ class FeaturesExcluder(BaseEstimator, TransformerMixin):
 
 class FeaturesScaler(BaseEstimator, TransformerMixin):
 
-    """Z-score scaler """
+    """Scale input to zero mean and unit variance """
     
     
        
