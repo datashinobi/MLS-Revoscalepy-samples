@@ -9,6 +9,8 @@ class DataSource():
     def __init__(self, connectionstring):
 
          """Data source remote compute context
+
+
                 Args:
                     connectionstring: connection string to the SQL server.
                     
@@ -33,3 +35,4 @@ class DataSource():
             raise RuntimeError("Data must be loaded before requesting computecontext!")
 
         return self.__computeContext
+
